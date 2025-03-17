@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AE34-odf
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning
+- 👀 I’m interested in code
+- 🌱 I’m currently learning code
 - I am usually, almost always, unavailable.
 
 <!---
