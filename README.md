@@ -1,4 +1,1 @@
-- 👋 Hi, I’m Rxae
-- 👀 I’m interested in code
-- 🌱 I’m currently learning code
-- I am usually, almost always, unavailable.
+no
